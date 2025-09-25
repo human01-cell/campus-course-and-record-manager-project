@@ -1,6 +1,5 @@
 This is a Java console program whose purpose is to handle grades, enrollments, student records, and courses offered by the campus.
 
-
 Project Overview
 Student Management: Create and list student records.
 
@@ -28,6 +27,14 @@ Polymorphism: The getProfile() method is overridden in Student and Instructor.
 Design Patterns: The Builder Pattern is used to create Course objects.
 
 Exceptions: Custom exceptions, such as EnrollmentException, are used for specific business logic.
+
+Java APIs:
+
+Streams API: Used in CourseService and DataIOService for filtering and processing collections.
+
+NIO.2: Used for file operations like exporting data and creating backups.
+
+Date/Time API: Used in the Enrollment class to get the current date.
 
 Recursion: The calculateDirectorySize method in DataIOService uses recursion.
 
