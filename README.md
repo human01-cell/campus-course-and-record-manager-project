@@ -2,8 +2,6 @@
 
 This is a Java console program whose purpose is to handle grades, enrollments, student records, and courses offered by the campus.
 
-I have used advanced Java concepts such as Object-Oriented Programming, Design Patterns, File I/O with NIO.2, the Streams API, and more are demonstrated in this project.
-
 ### Project Overview
 * **Student Management:** Create and list student records.
 * **Course Management:** Add, find, and list courses.
@@ -128,3 +126,5 @@ CCRM/
 * **JVM (Java Virtual Machine):** An abstract machine that provides the runtime environment to execute Java bytecode. It is the core component that makes Java "platform-independent" by interpreting the compiled code.
 * **JRE (Java Runtime Environment):** A software package that contains everything needed to **run** a Java program. It includes the JVM and core Java libraries. You need the JRE to execute an application.
 * **JDK (Java Development Kit):** The full development kit. It contains everything in the JRE, plus the tools needed to **develop** Java applications, such as the `javac` compiler and a debugger.
+
+![Alt Text for the image](screenshots/your-screenshot-name.png)
