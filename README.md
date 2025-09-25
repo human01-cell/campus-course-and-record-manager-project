@@ -127,4 +127,4 @@ CCRM/
 * **JRE (Java Runtime Environment):** A software package that contains everything needed to **run** a Java program. It includes the JVM and core Java libraries. You need the JRE to execute an application.
 * **JDK (Java Development Kit):** The full development kit. It contains everything in the JRE, plus the tools needed to **develop** Java applications, such as the `javac` compiler and a debugger.
 
-![Alt Text for the image](screenshots/your-screenshot-name.png)
+![Java version](screenshots/Screenshot2025-09-25161957.png)
